@@ -15,7 +15,7 @@ To learn how to design and construct an app that implements a JobService.
 ## This app does the following:
 - Implements the JobService Framework
 
-- Constructs a JobInfo object with specific constraints.
+- Constructs a JobInfo object with specific constraints
 
 - Schedules a JobService based on the JobInfo object
 
