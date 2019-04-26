@@ -24,11 +24,5 @@ To learn how to design and construct an app that implements a JobService.
 
 - JobInfo objects
 
-- LiveData
-
-- Repository
-
-- Room database
-
 ![Alt text](notification_scheduler_one.png?raw=true "Notification Image One") 
 ![Alt text](notification_scheduler_2.png?raw=true "Notification Image Two")
