@@ -12,17 +12,12 @@ To learn how to design and construct an app that implements a JobService.
 
 
 
-## The RoomWordsSample app does the following:
+## This app does the following:
+- Implements the JobService Framework
+
 - Constructs a JobInfo object with specific constraints.
 
 - Schedules a JobService based on the JobInfo object
-
-
-
-## This application implements:
-- JobService Framework
-
-- JobInfo objects
 
 ![Alt text](notification_scheduler_one.png?raw=true "Notification Image One") 
 ![Alt text](notification_scheduler_2.png?raw=true "Notification Image Two")
