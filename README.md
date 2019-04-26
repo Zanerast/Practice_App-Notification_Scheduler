@@ -1,7 +1,7 @@
 # Practice App - Notification Scheduler - Android Job Scheduler
 
 ## Project Overview
-Course from [Android Developers Codelabs](https://codelabs.developers.google.com/android-training/) 8.3 Job Scheduler
+Course from [Android Developers Codelabs](https://codelabs.developers.google.com/android-training/) - 8.3 Job Scheduler
 
 The app, called Notification Scheduler, allowing the user to select constraints and schedule a job. When that job is executed, the app posts a notification.
 
